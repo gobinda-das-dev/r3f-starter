@@ -7,4 +7,4 @@ npm run dev
 ```
 
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+![image](https://raw.githubusercontent.com/gobinda-das-dev/r3f-starter/refs/heads/main/public/preview.png)
